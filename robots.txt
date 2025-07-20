@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/jami-francis/FIT.git/sitemap.xml
