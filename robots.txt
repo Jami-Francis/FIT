@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://francisit.com/sitemap.xml
