@@ -36,6 +36,9 @@
 <loc>https://francisit.com/fit-articles/android-legacy-risks-old-phones/</loc>
 </url>
 <url>
+<loc>https://francisit.com/fit-articles/apple-devices/</loc>
+</url>
+<url>
 <loc>https://francisit.com/fit-articles/apps-and-tools-for-windows-11/</loc>
 </url>
 <url>
@@ -159,9 +162,6 @@
 <loc>https://francisit.com/fit-articles/usb-adapters/</loc>
 </url>
 <url>
-<loc>https://francisit.com/fit-articles/usb-data-and-power-cables/</loc>
-</url>
-<url>
 <loc>https://francisit.com/fit-articles/visualizing-your-wi-fi-network/</loc>
 </url>
 <url>
@@ -190,5 +190,9 @@
 </url>
 <url>
 <loc>https://francisit.com/tags/</loc>
+</url>
+<url>
+<loc>https://francisit.com/usb-data-and-power-cables/</loc>
+<lastmod>2026-08-21T03:28:45-07:00</lastmod>
 </url>
 </urlset>
